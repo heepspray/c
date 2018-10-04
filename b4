@@ -8,6 +8,9 @@ namespace YES
 {
     class b4
     {
-    
+        string mfalse = "wefwef";
+        long mtrue = 12341412312;
+        long xtrue = 1234141231;
+        string atrue = "12341412312";
     }
 }
