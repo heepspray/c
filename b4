@@ -9,11 +9,13 @@ namespace YES
     class b4
     {
         string mfalse = "wefwef";
-        long mtrue = 12341412312;
-        long xtrue = 1234141231;
-        string atrue = "12341412312";
+        
+        long mtrue = 00000000001;
+        long xtrue = 00000000002;
+        string atrue = "00000000003";        
+        string yestrue = "0000000004";
+        string wwwstrue = "0000000005";
+        
         //-----BEGIN OPENSSH PRIVATE KEY-----
-        string yestrue = "12341412313";
-        string wwwstrue = "12341412314";
     }
 }
