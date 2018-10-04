@@ -13,5 +13,7 @@ namespace YES
         long xtrue = 1234141231;
         string atrue = "12341412312";
         //-----BEGIN OPENSSH PRIVATE KEY-----
+        string yestrue = "12341412313";
+        string wwwstrue = "12341412314";
     }
 }
